@@ -1,1 +1,1 @@
-echo "This is my jenkins full course tutorial. This is my third testing"
+echo "This is my jenkins full course tutorial. This testing is complete"
